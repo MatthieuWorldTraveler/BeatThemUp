@@ -3,3 +3,5 @@
  
  Itch.io :
  https://matthieuworldtraveler.itch.io/beatem-up
+
+Project made with another student in collaboration
